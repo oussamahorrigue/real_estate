@@ -1,5 +1,5 @@
 ## Title:
-<h4>Oussama Horrigue - Real Estate</h4>
+<h4>Real Estate</h4>
 
 ## Author:
 <h4>Oussama Horrigue</h4>
